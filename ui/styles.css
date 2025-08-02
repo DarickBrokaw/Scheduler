@@ -1,0 +1,14 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+.day {
+  margin-bottom: 20px;
+}
+
+.time-slot {
+  border: 1px solid #ccc;
+  padding: 4px;
+  margin: 2px 0;
+}
