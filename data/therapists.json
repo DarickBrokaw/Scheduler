@@ -1,0 +1,16 @@
+[
+  {
+    "id": "therapist_1",
+    "name": "Emily Chen",
+    "available_days": ["Mon", "Wed", "Fri"],
+    "available_hours": ["08:00-12:00", "13:00-17:00"],
+    "specialties": ["speech delay", "apraxia"]
+  },
+  {
+    "id": "therapist_2",
+    "name": "Michael Lee",
+    "available_days": ["Tue", "Thu"],
+    "available_hours": ["09:00-12:00", "13:00-16:00"],
+    "specialties": ["fluency", "articulation"]
+  }
+]

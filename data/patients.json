@@ -1,0 +1,38 @@
+[
+  {
+    "id": "patient_01",
+    "name": "Lucas Smith",
+    "age": 5,
+    "school_status": "preschool",
+    "available_days": ["Mon", "Wed"],
+    "available_hours": ["14:00-17:00"],
+    "parent_available_hours": ["13:30-17:30"],
+    "sibling_ids": ["patient_02"],
+    "grouping_type": "same_time",
+    "preferred_specialties": ["speech delay"]
+  },
+  {
+    "id": "patient_02",
+    "name": "Sophia Smith",
+    "age": 7,
+    "school_status": "elementary",
+    "available_days": ["Mon", "Wed"],
+    "available_hours": ["14:00-17:00"],
+    "parent_available_hours": ["13:30-17:30"],
+    "sibling_ids": ["patient_01"],
+    "grouping_type": "same_time",
+    "preferred_specialties": ["speech delay"]
+  },
+  {
+    "id": "patient_03",
+    "name": "Noah Brown",
+    "age": 6,
+    "school_status": "preschool",
+    "available_days": ["Tue", "Thu"],
+    "available_hours": ["10:00-12:00"],
+    "parent_available_hours": ["09:30-12:30"],
+    "sibling_ids": [],
+    "grouping_type": "none",
+    "preferred_specialties": ["fluency"]
+  }
+]
